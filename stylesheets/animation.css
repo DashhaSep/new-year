@@ -1,0 +1,26 @@
+.candy-1:hover {
+  background-image: url(../images/konfeta-orange-full.svg);
+}
+.candy-2:hover {
+  background-image: url(../images/konfeta-beige-full.svg);
+}
+.candy-3:hover {
+  background-image: url(../images/konfeta-green-full.svg);
+}
+.candy-4:hover {
+  background-image: url(../images/konfeta-pink-full.svg);
+}
+.candy-5:hover {
+  background-image: url(../images/konfeta-lightblue-full.svg);
+}
+.candy-6:hover {
+  background-image: url(../images/konfeta-blue-full.svg);
+}
+.empty-1:hover,
+.empty-2:hover,
+.empty-3:hover,
+.empty-4:hover,
+.empty-5:hover,
+.empty-6:hover {
+  display: none;
+}
