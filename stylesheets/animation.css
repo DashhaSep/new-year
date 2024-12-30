@@ -24,3 +24,23 @@
 .empty-6:hover {
   display: none;
 }
+/* SECOND SCREEN */
+.pic-11:hover,
+.pic-15:hover,
+.pic-16:hover,
+.pic-13:hover,
+.pic-10:hover,
+.pic-6:hover,
+.pic-1:hover,
+.pic-7:hover,
+.pic-9:hover {
+  opacity: 0;
+}
+@keyframes row {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

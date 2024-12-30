@@ -76,3 +76,164 @@ section {
   background-image: url(../images/konfeta-blue.svg);
   background-size: 43vw;
 }
+/* SECOND SCREEN */
+.pinterest-pictures {
+}
+.pic-1 {
+  background-image: url(../images/-40.svg);
+  width: 29.5vw;
+  height: 29.4vw;
+}
+.pic-2 {
+  background-image: url(../images/-41.svg);
+  width: 25vw;
+  height: 24.8vw;
+  margin-left: 29.5vw;
+  margin-top: -30vw;
+}
+.pic-3 {
+  background-image: url(../images/-41-1.svg);
+  width: 25vw;
+  height: 24.8vw;
+  margin-top: 5.1vw;
+}
+.pic-4 {
+  background-image: url(../images/-42.svg);
+  width: 27.7vw;
+  height: 31vw;
+  margin-left: 74.5vw;
+  margin-top: -55vw;
+}
+.pic-5 {
+  background-image: url(../images/-44-1.svg);
+  width: 25vw;
+  height: 33vw;
+  margin-left: 25vw;
+  margin-top: -8.8vw;
+}
+.pic-6 {
+  background-image: url(../images/-44.svg);
+  width: 27.7vw;
+  height: 36.8vw;
+  position: absolute;
+  margin-top: -55vw;
+  margin-left: 43vw;
+}
+.pic-7 {
+  background-image: url(../images/-45.svg);
+  width: 17vw;
+  height: 21vw;
+  position: absolute;
+  margin-left: 70vw;
+  margin-top: -50vw;
+  z-index: 4;
+}
+.pic-8 {
+  background-image: url(../images/-46.svg);
+  width: 23vw;
+  height: 24.8vw;
+  margin-left: 77vw;
+  margin-top: -25vw;
+  position: absolute;
+}
+.pic-9 {
+  background-image: url(../images/-47.svg);
+  width: 23.5vw;
+  height: 26.7vw;
+  margin-top: -50vw;
+  margin-left: 20vw;
+  position: absolute;
+  z-index: 1;
+}
+.pic-10 {
+  background-image: url(../images/-50.svg);
+  width: 19.9vw;
+  height: 23.7vw;
+  position: absolute;
+  margin-top: -24vw;
+}
+.pic-11 {
+  background-image: url(../images/-51.svg);
+  width: 25vw;
+  height: 25vw;
+  position: absolute;
+  margin-top: -40vw;
+  z-index: 100;
+  margin-left: 36vw;
+}
+.pic-12 {
+  background-image: url(../images/food.svg);
+  width: 32.65vw;
+  height: 32.8vw;
+  margin-left: 50vw;
+  margin-top: -32.8vw;
+}
+.pic-13 {
+  background-image: url(../images/Borreltijd.svg);
+  width: 21.7vw;
+  height: 26vw;
+  position: absolute;
+  margin-left: 60vw;
+  margin-top: -25.8vw;
+  z-index: 3;
+}
+.pic-14 {
+  background-image: url(../images/Vintage\ Baubles.svg);
+  width: 22vw;
+  height: 29.4vw;
+  margin-left: 54.5vw;
+  margin-top: -60vw;
+}
+.pic-15 {
+  background-image: url(../images/Советский\ Новый\ год.svg);
+  width: 25vw;
+  height: 31vw;
+  position: absolute;
+  margin-top: -24vw;
+}
+.pic-16 {
+  background-image: url(../images/-40.svg);
+  width: 29.5vw;
+  height: 29.4vw;
+  position: absolute;
+  margin-left: 70.5vw;
+  margin-top: -20vw;
+}
+.pic-1,
+.pic-2,
+.pic-3,
+.pic-4,
+.pic-5,
+.pic-6,
+.pic-7,
+.pic-8,
+.pic-9,
+.pic-10,
+.pic-11,
+.pic-12,
+.pic-13,
+.pic-14,
+.pic-15,
+.pic-16 {
+  background-size: contain;
+}
+.hello {
+  margin-top: 30vw;
+  color: #9f2300;
+}
+.run-line {
+  padding-top: 6vw;
+  height: 15vw;
+  width: 200%;
+  position: relative;
+}
+.line {
+  position: absolute;
+  animation: row 10s linear infinite;
+}
+.text {
+  color: #fdbecc;
+  font-size: 6.7vw;
+  width: 200%;
+  font-family: "SOROKA";
+}
